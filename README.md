@@ -66,6 +66,8 @@ The model outputs probabilities for each test image (dog or cat), with visualiza
 Your model correctly identified 72.0% of the images of cats and dogs.
 You passed the challenge!
 ```
+## Link to Colab
+▶️ [Open in Google Colab]([https://colab.research.google.com/drive/your-colab-id](https://colab.research.google.com/drive/1NdcX7GYH-eG1Fvn62AN2Zv3tbG0fuZvv))
 
 ## 👑 Author
 Ojasvi Goyal (aka FR34K)
